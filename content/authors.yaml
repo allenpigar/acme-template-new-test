@@ -1,0 +1,73 @@
+
+  - id: "a673-a755-eec0"
+    web:
+      metaDescription: ""
+      metaTitle: "Juan Perez"
+      metaLinkText: "Juan Perez"
+      metaKeywords: null
+      pathPart: "juan-perez"
+      path: "/blog/juan-perez/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 134
+      listed: true
+    data:
+      name: "Juan Perez"
+  - id: "d645-760f-907b"
+    web:
+      metaDescription: ""
+      metaTitle: "Fred Nerk"
+      metaLinkText: "Fred Nerk"
+      metaKeywords: null
+      pathPart: "fred-nerk"
+      path: "/blog/fred-nerk/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 133
+      listed: true
+    data:
+      name: "Fred Nerk"
+  - id: "35bb-f89f-e8d0"
+    web:
+      metaDescription: ""
+      metaTitle: "Joe Bloggs"
+      metaLinkText: "Joe Bloggs"
+      metaKeywords: null
+      pathPart: "joe-bloggs"
+      path: "/blog/joe-bloggs/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 132
+      listed: true
+    data:
+      name: "Joe Bloggs"
+  - id: "a6f2-87c7-6e0c"
+    web:
+      metaDescription: ""
+      metaTitle: " Uncle Tom Cobley"
+      metaLinkText: " Uncle Tom Cobley"
+      metaKeywords: null
+      pathPart: "uncle-tom-cobley"
+      path: "/blog/uncle-tom-cobley/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 131
+      listed: true
+    data:
+      name: " Uncle Tom Cobley"

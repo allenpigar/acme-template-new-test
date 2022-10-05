@@ -1,0 +1,55 @@
+
+  - id: "f201-3504-bd50"
+    web:
+      metaDescription: ""
+      metaTitle: "Technology"
+      metaLinkText: "Technology"
+      metaKeywords: null
+      pathPart: "technology"
+      path: "/blog/technology/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 110
+      listed: true
+    data:
+      name: "Tech"
+  - id: "6d1a-cad7-3cf0"
+    web:
+      metaDescription: ""
+      metaTitle: "Finance"
+      metaLinkText: "Finance"
+      metaKeywords: null
+      pathPart: "finance"
+      path: "/blog/finance/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 111
+      listed: true
+    data:
+      name: "Finance"
+  - id: "2711-ae0f-f159"
+    web:
+      metaDescription: ""
+      metaTitle: "Business"
+      metaLinkText: "Business"
+      metaKeywords: null
+      pathPart: "business"
+      path: "/blog/business/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 109
+      listed: true
+    data:
+      name: "Marketing"
